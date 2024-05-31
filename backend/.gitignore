@@ -1,0 +1,9 @@
+
+query.http
+venv
+.env
+__pycache__/
+/#script#
+file_info.db
+
+/file_info
